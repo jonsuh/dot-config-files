@@ -50,7 +50,6 @@
   "material_theme_disable_folder_animation": true,
   "material_theme_tabs_separator": true,
   "preview_on_click": false,
-  "remember_open_files": false,
   "spell_check": true,
   "tab_size": 2,
   "theme": "Material-Theme.sublime-theme",
