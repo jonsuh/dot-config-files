@@ -1,6 +1,6 @@
 # .dot and Config files
 
-A collection of my current or commonly-used .dot and configuration files. Some are modified based on the project.
+A collection of my current, commonly-used .dot and configuration files. Some are modified based on the project.
 
 ## Files
 
