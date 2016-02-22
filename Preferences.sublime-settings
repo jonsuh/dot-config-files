@@ -1,0 +1,59 @@
+{
+  "animation_enabled": false,
+  "atomic_save": true,
+  "auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+  "binary_file_patterns":
+  [
+    "*.jpg",
+    "*.jpeg",
+    "*.png",
+    "*.gif",
+    "*.ttf",
+    "*.tga",
+    "*.dds",
+    "*.ico",
+    "*.eot",
+    "*.pdf",
+    "*.swf",
+    "*.jar",
+    "*.zip",
+    "node_modules/**",
+    "bower_components/**"
+  ],
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+  "enable_live_count": true,
+  "enable_tab_scrolling": false,
+  "enable_telemetry": "auto",
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": false,
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    ".sass-cache",
+    ".jekyll-assets-cache"
+  ],
+  "font_face": "Hack",
+  "font_size": 12,
+  "highlight_modified_tabs": true,
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "material_theme_compact_sidebar": true,
+  "material_theme_disable_folder_animation": true,
+  "material_theme_tabs_separator": true,
+  "preview_on_click": false,
+  "remember_open_files": false,
+  "spell_check": true,
+  "tab_size": 2,
+  "theme": "Material-Theme.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
