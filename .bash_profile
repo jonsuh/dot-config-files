@@ -59,7 +59,7 @@ gulpify() {
   if [ "$1" ]; then
     git clone git@github.com:jonsuh/gulp-grunt-starter.git ~/Work/$1
     cd ~/Work/$1
-    rm bower.json Gulpfile.js LICENSE package.grunt.json README.md
+    rm Gruntfile.js LICENSE package.grunt.json README.md
     sudo rm -R .git
     npm install
   else
