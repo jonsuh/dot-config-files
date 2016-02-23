@@ -60,7 +60,7 @@ gulpify() {
     git clone git@github.com:jonsuh/gulp-grunt-starter.git ~/Work/$1
     cd ~/Work/$1
     rm Gruntfile.js LICENSE package.grunt.json README.md
-    sudo rm -R .git
+    rm -rf .git
     npm install
   else
     echo -e "${RED}Error:${NOCOLOR} Specify a directory name to gulpify."
